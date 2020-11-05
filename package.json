@@ -1,6 +1,6 @@
 {
   "name": "@lyra-network/openapi-dev-tool",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "OpenAPI Development tool",
   "main": "dist/src/lib.js",
   "scripts": {
@@ -19,10 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.lbg.office.fr.lyra:dguerin/openapi-dev-tool.git"
+    "url": "git@github.com:lyra/openapi-dev-tool.git"
   },
   "author": "Damien Guérin <damien.guerin@lyra-network.com>",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "@lyra-network/nexus-deployer": "0.1.9",
     "@redoc/redoc-pro": "1.0.0-beta.38",
